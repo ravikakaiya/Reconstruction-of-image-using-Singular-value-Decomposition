@@ -3,12 +3,12 @@
 
 # Error v/s No. of Singular values
 
-<img src = "error.jpg">
+<img src = "error.JPG">
 
 # Convergance 
 
-<img src = "img3.jpg">
+<img src = "img3.JPG">
 
 # Reconstruction of Image
 
-<img src = "custom_svd.jpg">
+<img src = "custom_svd.JPG">
