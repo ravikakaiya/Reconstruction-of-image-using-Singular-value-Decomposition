@@ -3,4 +3,12 @@
 
 # Error v/s No. of Singular values
 
-<src = "">
+<img src = "error.jpg">
+
+# Convergance 
+
+<img src = "img3.jpg">
+
+# Reconstruction of Image
+
+<img src = "custom_svd.jpg">
